@@ -15,7 +15,7 @@ Please review the [Terms of Use for arXiv APIs](tou.md) before using the arXiv
 API.
 
 For more news and questions about the arXiv API, please see our [arxiv-api
-group](https://groups.google.com/a/arxiv.org/g/api). Additional information is also in the [API FAQ](faq.md).
+group](https://groups.google.com/a/arxiv.org/g/api). 
 
   - [About the arXiv API](#about)
 
@@ -250,7 +250,7 @@ The file\_get\_contents() function is part of the PHP core language:
 
 The API [User's Manual](user-manual.md) discusses the API interface and
 returned Atom format in detail, and gives code examples in the languages
-listed above. The [API FAQ](faq.md) has answers to common questions, or
+listed above. The [API Basics](../api/basics.md) offers an introduction to using the API, answers basic questions, and includes links to developer documentation, or
 feel free to ask the [arxiv-api discussion
 list](https://groups.google.com/a/arxiv.org/g/api).
 
