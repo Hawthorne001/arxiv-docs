@@ -3,6 +3,8 @@
 ## Annual Reports
 [2023 Annual Report](2023_arXiv_annual_report.pdf)
 
+[2023 arXiv in Numbers](2023_usage.md)
+
 [2022 Annual Report](2022_arXiv_annual_report.pdf)
 
 [2022 arXiv in Numbers](2022_usage.md)
@@ -46,6 +48,8 @@ _In 2020, arXiv began publishing annual reports in the first quarter of the cale
 
 ## Budgets
 [arXiv Reserve Funds Policy](/about/reports/arXiv_Reserve_Funds_Policy.pdf)
+
+[FY2025 Budget](/about/reports/FY25_Budget_Public.pdf)
 
 [FY2024 Budget](/about/reports/FY24_Budget_External.pdf)
 
